@@ -1,10 +1,9 @@
-# Image processing
+# Core
+numpy>=2.0.0
 opencv-python>=4.8.0
-numpy>=1.24.0
 
-# Deep learning
-tensorflow>=2.13.0
-segmentation-models>=1.0.1
+# Deep Learning
+tensorflow>=2.16.0
 
 # Metrics
 scikit-image>=0.21.0
