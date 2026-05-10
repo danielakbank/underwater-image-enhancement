@@ -10,8 +10,8 @@
 import os
 import numpy as np
 import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras import layers, callbacks
+import keras
+from keras import layers, callbacks
 from pathlib import Path
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
