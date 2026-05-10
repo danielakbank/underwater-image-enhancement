@@ -1,0 +1,20 @@
+# Image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Deep learning
+tensorflow>=2.13.0
+segmentation-models>=1.0.1
+
+# Metrics
+scikit-image>=0.21.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# App
+gradio>=4.0.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0

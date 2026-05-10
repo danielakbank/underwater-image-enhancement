@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Data ────────────────────────────────
+# Dataset files are too large for GitHub
+data/raw/
+data/reference/
+data/results/
+
+# ── Models ──────────────────────────────
+# Trained weights are too large for GitHub
+models/*.h5
+models/*.keras
+
+# ── Environment ─────────────────────────
+.env
+
+# ── Virtual Environment ─────────────────
+venv/
