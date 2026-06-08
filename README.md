@@ -1,7 +1,6 @@
 # 🌊 Underwater Image Enhancement
 
-A deep learning pipeline for underwater image enhancement using classical computer vision preprocessing and a **U-Net CNN with EfficientNetB0 transfer learning**. Built as a research portfolio project for PhD applications in Computer Vision and Deep Learning.
-
+A deep learning pipeline for underwater image enhancement using classical computer vision preprocessing and a **U-Net CNN with EfficientNetB0 transfer learning**. 
 ---
 
 ## 🎯 Results
